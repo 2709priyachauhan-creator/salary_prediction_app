@@ -11,4 +11,7 @@ Easily deployable for academic demonstration or career insights, the app offers 
 - Joblib
 - Pandas
 
-## Run Locally
+## Live Demo
+You can explore the deployed web app here:  
+[https://your-username-salary-prediction-app.streamlit.app](https://your-username-salary-prediction-app.streamlit.app)
+

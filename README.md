@@ -1,6 +1,8 @@
-# Data Analyst Salary Prediction App
+## Data Analyst Salary Prediction App
 
-This Streamlit web app predicts the salary of Data Analyst job roles based on skills, location, and company size.
+This interactive Streamlit web application predicts Data Analyst job salaries based on user-selected skills, job location, company size, and industry type.  
+Built with Python, scikit-learn, and joblib, it uses a machine learning model trained on real-world data to generate accurate salary estimates.  
+Easily deployable for academic demonstration or career insights, the app offers intuitive controls for job seekers, HR professionals, and data science learners.
 
 ## Built With
 - Python
